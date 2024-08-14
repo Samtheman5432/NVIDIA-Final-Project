@@ -1,4 +1,4 @@
-**Pushup identifier**
+## Pushup identifier
 
 The AI model would recognize the correct bodily form of a good push up; being arms shoulder length apart and chest touching the floor. 
 
