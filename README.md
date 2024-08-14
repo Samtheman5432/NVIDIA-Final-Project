@@ -4,10 +4,10 @@ The AI model would recognize the correct bodily form of a good push up; being ar
 
  
 
-![add image description here](direct image link here)
+[add image description here](direct image link here)
 
 ## The Algorithm
-The model works through 9 different cells. The first block sets the size of the images and starts the camera. The second block defines the TASK and CATEGORIES (good & bad pushups), as well as how many datasets you want to track. Using an iPython widget, the third cell sets up the collection mechanism to count your images and produce the user interface. The fifth cell uses the resnet-18 model and defines the neural network used. The sixth block allows the viewer to see the live webcam feed. 
+The model works through 9 different cells. The first block sets the size of the images and starts the camera. The second block defines the TASK and CATEGORIES (good & bad pushups), as well as how many datasets you want to track. Using an iPython widget, the third cell sets up the collection mechanism to count your images and produce the user interface. The fifth cell uses the resnet-18 model and defines the neural network used. The sixth block allows the viewer to see the live webcam feed. The final cell allows for all the widgets and the webcam feed to be displayed at once. 
 
 ## Running this project
 
